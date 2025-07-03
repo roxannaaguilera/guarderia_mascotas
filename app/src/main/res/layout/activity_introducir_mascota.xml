@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/texto_central"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="No hay mascotas añadidas.Presione la huella para introducir una nueva."
+        android:textSize="18sp"
+        android:textColor="@android:color/darker_gray"
+        android:layout_centerInParent="true"
+        android:gravity="center"/>
+
+
+    <ImageButton
+        android:id="@+id/boton_huella"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:src="@drawable/huella"
+        android:background="@android:color/transparent"
+        android:scaleType="centerCrop"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:contentDescription="Botón de huella" />
+
+</RelativeLayout>
+
+
+

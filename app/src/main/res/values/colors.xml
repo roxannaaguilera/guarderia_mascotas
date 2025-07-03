@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rojo">#c30000</color>
+    <color name="rojoBotones">#ff2c14</color>
+    ff2c14
+    <color name="white">#FFFFFF</color>
+    <color name="primary_text">#EA3F38</color>
+    <color name="button_register">#FF2C14</color>
+    <color name="button_login">#FF0000</color>
+
+</resources>

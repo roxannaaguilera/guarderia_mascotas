@@ -1,0 +1,20 @@
+Luna|Golden Retriever|Hembra|Fuerte
+Max|Labrador Retriever|Macho|Grande
+Bella|Poodle|Hembra|Pequeña
+Rocky|Bulldog|Macho|Robusto
+Nala|Chihuahua|Hembra|Ágil
+Milo|Beagle|Macho|Mediano
+Coco|Pomerania|Hembra|Pequeña
+Thor|Rottweiler|Macho|Musculoso
+Lola|Dálmata|Hembra|Elegante
+Bruno|Boxer|Macho|Atlético
+Mia|Shar Pei|Hembra|Tranquila
+Simba|Pastor Alemán|Macho|Protector
+Kira|Shih Tzu|Hembra|Cariñosa
+Toby|Husky Siberiano|Macho|Energético
+Sasha|Caniche|Hembra|Obediente
+Duke|San Bernardo|Macho|Gigante
+Lia|Yorkshire Terrier|Hembra|Valiente
+Zeus|Doberman|Macho|Fuerte
+Maggie|Cocker Spaniel|Hembra|Juguetona
+Rex|Gran Danés|Macho|Imponente

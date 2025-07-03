@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PetCareDay" parent="Theme.Material3.DayNight">
+
+    </style>
+
+    <!-- Nuevo estilo con ActionBar -->
+    <style name="WithActionBar" parent="Theme.Material3.DayNight">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+        <item name="colorPrimary">@color/rojo</item>
+        <item name="android:statusBarColor">@color/rojo</item>
+        <item name="android:textColorPrimary">@color/white</item>
+
+        <!-- El tema base Theme.Material3.DayNight ya incluye ActionBar -->
+    </style>
+</resources>
